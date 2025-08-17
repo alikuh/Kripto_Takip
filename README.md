@@ -1,13 +1,14 @@
 # 🚀 Kripto Para Takip Uygulaması
 
 ![Ana Panel](ana_ekran.png) 
-![Coin Veri Paneli](Coin_paneli.png) 
+
 
 
   Python ve Tkinter kullanılarak geliştirilmiş bu masaüstü uygulama, kullanıcıların **kripto para piyasasını gerçek zamanlı olarak takip etmesini** sağlar.
 CoinGecko API üzerinden veri çekerek en popüler 10 kripto parayı listeler ve arama ile detaylı bilgilerini sunar.
 
 ---
+![Coin Veri Paneli](Coin_paneli.png) 
 
 ## 🔹 Özellikler
 
